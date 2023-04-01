@@ -1,0 +1,73 @@
+nav.menù {
+    background-color: #404040;
+    color: white;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    text-align: center;
+}
+
+nav {
+    background-color: #404040;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li:hover {
+    background-color: #737373;
+}
+
+div#navbar {
+    color: white;
+    background-color: black;
+    margin: 0px;
+    width: 100%;
+    padding: 2px 20px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+
+}
+
+div.fondo-pagina {
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: 0px;
+    padding: 20px 20px;
+    position: absolute;
+    top: 700px;
+    left: 0px;
+    text-align: center;
+
+}
+
+div.tutti-social-fondo-pagina {
+    
+    background-color: black;
+    text-align: left;
+    margin-left: 30px;
+}
+
+div.google-maps {
+    margin-top: 100px;
+}
